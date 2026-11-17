@@ -1082,7 +1082,7 @@
               "turn_suffocate": "Le robot est coincé ou ne peut pas tourner\nLe robot est peut-être bloqué ou coincé.",
               "forward_suffocate": "Le robot est coincé ou ne peut pas avancer\nLe robot est peut-être bloqué ou coincé.",
               "charger_get": "Impossible de localiser la station\nVeuillez vérifier si le cordon d'alimentation est correctement branché.",
-              "battery_low": "Batterie faible\nLe niveau de la batterie est trop faible. Veuillez facturer.",
+              "battery_low": "Batterie faible\nLe niveau de la batterie est trop faible. Veuillez recharger le robot.",
               "charge_fault": "Erreur de chargement\nVeuillez utiliser un chiffon sec pour essuyer les contacts de charge du robot et de la base à vidage automatique.",
               "battery_percentage": "Erreur lors de la lecture du niveau de batterie",
               "heart": "Erreur interne\nVeuillez essayer de redémarrer le robot.",
